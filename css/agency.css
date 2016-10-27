@@ -133,4 +133,26 @@ color:#fed136;
             height /**/: 66px;
         } 
 
-        
+        .text-purple {
+            color:#996AA0;
+        }
+
+        .text-green {
+            color:#8CB025;
+        }
+
+        .text-blue {
+            color:#459CD6;
+        }
+
+        .text-red {
+            color:#B0191A;
+        }    
+        .text-orange {
+            color:#D57215;
+        }
+        p {
+            text-align: justify;
+            -moz-text-align-last: center;
+            text-align-last: center;
+        }
